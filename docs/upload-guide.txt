@@ -1,0 +1,17 @@
+GPS FACEBOOK IMAGES - QUICK GUIDE
+
+1. Choose one cover from covers/ and one profile image from profiles/.
+2. Open the programme's Facebook page with your page-admin account:
+   https://www.facebook.com/geopoliticalstudiesinPrague
+3. Use Facebook's cover-photo or profile-picture edit control and upload the
+   corresponding PNG. The exact control labels may vary.
+4. Check Facebook's preview and reposition the image where needed. Make sure
+   text remains visible and the circular profile crop looks right before saving.
+5. After saving, check the page on both a phone and a desktop.
+
+Covers: 2000 x 800 pixels, PNG.
+Profile images: 1024 x 1024 pixels, PNG. Square files; Facebook applies its crop.
+All eight files are standalone artwork, without gallery labels or buttons.
+The gallery preview does not simulate Facebook's cover crop or interface.
+
+Image credits are included in CREDITS.txt.

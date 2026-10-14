@@ -1,0 +1,58 @@
+[
+  {
+    "file": "covers/01-prague-white.png",
+    "width": 2000,
+    "height": 800,
+    "bytes": 1835727,
+    "sha256": "df168c5936ee18869deb82b1ef580a30ea3266cbc75528410a9ee4bb7720439b"
+  },
+  {
+    "file": "covers/02-prague-black.png",
+    "width": 2000,
+    "height": 800,
+    "bytes": 1847605,
+    "sha256": "44b8dc98ca497892aedf8f8b256b89dc53f3692e5eaa0b3ea1c1bf8f3db52937"
+  },
+  {
+    "file": "covers/03-jinonice-white.png",
+    "width": 2000,
+    "height": 800,
+    "bytes": 1706887,
+    "sha256": "7e9e38d617046f66ab3c5f059cccd1da9e3d9d0be0348d9867808044b0894081"
+  },
+  {
+    "file": "covers/04-jinonice-blue.png",
+    "width": 2000,
+    "height": 800,
+    "bytes": 1723349,
+    "sha256": "7357c9f97a7afbf17d36b2bde34ada09ae855c175e3c40989ac76d3b3bdbda38"
+  },
+  {
+    "file": "profiles/01-red-gps.png",
+    "width": 1024,
+    "height": 1024,
+    "bytes": 35467,
+    "sha256": "dba2bec3695364833080d586b420b5d31b725b003cb34f606b998162dbf639af"
+  },
+  {
+    "file": "profiles/02-black-gps.png",
+    "width": 1024,
+    "height": 1024,
+    "bytes": 35549,
+    "sha256": "73e67bf90635c159fbaa626845f9a0495ce790da7393c02969d933a9546a31a2"
+  },
+  {
+    "file": "profiles/03-blue-globe.png",
+    "width": 1024,
+    "height": 1024,
+    "bytes": 59353,
+    "sha256": "51831f6f83071a7b656242f4a4a215fde59ee260bc6959eeefec038489fa2096"
+  },
+  {
+    "file": "profiles/04-university-seal.png",
+    "width": 1024,
+    "height": 1024,
+    "bytes": 213124,
+    "sha256": "83c301de8cfbd8fef03841e220eb7d8e28e386027baa8fbbe24731c1db6567d6"
+  }
+]

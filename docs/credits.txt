@@ -1,0 +1,22 @@
+GPS FACEBOOK GALLERY - IMAGE CREDITS
+
+Jinonice campus photograph:
+Mojmir Churavy, 18 May 2024, Budova FSV UK Jinonice F.jpg.
+Source: https://commons.wikimedia.org/wiki/File:Budova_FSV_UK_Jinonice_F.jpg
+Licence shown on source page: CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+The photograph is cropped in the design; the source image is not retouched.
+
+University symbol:
+Requester-supplied Wikimedia vector reproduction, credited to WikiWriter123.
+https://commons.wikimedia.org/wiki/File:Charles-University-symbol-4.svg
+The supplied symbol's artwork, proportions and red colour are preserved.
+
+Prague photograph:
+Reused from the existing GPS website artwork supplied for this design work.
+
+Typography:
+Source Sans 3 and Source Serif 4. Font licence files are supplied under assets/fonts/.
+
+The cover layouts and GPS profile treatments are prepared for the programme's
+page. The gallery is a design selection resource, not the university's main site.
