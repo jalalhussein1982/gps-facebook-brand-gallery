@@ -7,7 +7,14 @@ Licence shown on source page: CC0 1.0 Universal.
 https://creativecommons.org/publicdomain/zero/1.0/
 The photograph is cropped in the design; the source image is not retouched.
 
-University symbol:
+Complete GPS logo in the covers:
+The original local logo matches the programme website's logo byte-for-byte.
+https://geopolitics.fsv.cuni.cz/assets/gps-logo.png
+The original wording, letterforms, spacing and red-and-white seal are preserved.
+The wordmark uses dark ink on white panels and its original white lettering on
+black and blue panels. The original source asset is unchanged.
+
+University-seal profile option:
 Requester-supplied Wikimedia vector reproduction, credited to WikiWriter123.
 https://commons.wikimedia.org/wiki/File:Charles-University-symbol-4.svg
 The supplied symbol's artwork, proportions and red colour are preserved.

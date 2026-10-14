@@ -3,29 +3,29 @@
     "file": "covers/01-prague-white.png",
     "width": 2000,
     "height": 800,
-    "bytes": 1835727,
-    "sha256": "df168c5936ee18869deb82b1ef580a30ea3266cbc75528410a9ee4bb7720439b"
+    "bytes": 1923884,
+    "sha256": "3a143e2001a02e57462d941ca7bb04e61f346cc70fcd2b9a1bbcec34021e414d"
   },
   {
     "file": "covers/02-prague-black.png",
     "width": 2000,
     "height": 800,
-    "bytes": 1847605,
-    "sha256": "44b8dc98ca497892aedf8f8b256b89dc53f3692e5eaa0b3ea1c1bf8f3db52937"
+    "bytes": 1936310,
+    "sha256": "e6e7c0eecff201381f624b7285dfe9b88a91efc15007c6c76d11c33b254a4f11"
   },
   {
     "file": "covers/03-jinonice-white.png",
     "width": 2000,
     "height": 800,
-    "bytes": 1706887,
-    "sha256": "7e9e38d617046f66ab3c5f059cccd1da9e3d9d0be0348d9867808044b0894081"
+    "bytes": 1792360,
+    "sha256": "d3eae4c98b564298e558dd6336ee86e498208b49bfcb767d2f61406716c3a591"
   },
   {
     "file": "covers/04-jinonice-blue.png",
     "width": 2000,
     "height": 800,
-    "bytes": 1723349,
-    "sha256": "7357c9f97a7afbf17d36b2bde34ada09ae855c175e3c40989ac76d3b3bdbda38"
+    "bytes": 1809665,
+    "sha256": "838b8f3852031c3eda61ced81edff744bec8c53bfc9b9f2b97cffe92eff99d31"
   },
   {
     "file": "profiles/01-red-gps.png",
