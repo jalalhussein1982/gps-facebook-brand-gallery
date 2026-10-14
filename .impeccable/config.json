@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "border-accent-on-rounded",
+        "value": "*",
+        "files": [
+          "docs/assets/gallery.css"
+        ],
+        "createdAt": "2026-10-14T12:26:59.342Z",
+        "reason": "Agent review: the 5px accent border belongs only to .topbar, which has square corners and no border-radius. Rounded cards use a 1px neutral border. The detector combines declarations from separate selectors in compact CSS."
+      }
+    ]
+  }
+}
